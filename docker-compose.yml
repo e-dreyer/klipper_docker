@@ -1,0 +1,36 @@
+version: "3.8"
+services:
+  klipper:
+    container_name: klipper
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./printer_data:/home/printer/printer_data:delegated
+    ports:
+      - 7125:7125
+      - 8110:8080
+    networks:
+      - klipper-network
+
+  mainsail:
+    image: dimalo/mainsail
+    build:
+      dockerfile: Dockerfile
+      context: frontend
+      args:
+        FRONTEND_ZIP_URL: https://github.com/meteyou/mainsail/releases/latest/download/mainsail.zip
+    container_name: mainsail
+    ports:
+      - 8010:80
+    depends_on: 
+      - klipper
+    links:
+      - klipper:klipper
+    networks:
+      - klipper-network
+
+networks:
+  klipper-network:
+
+

@@ -1,0 +1,88 @@
+2023-09-08 08:38:45,147 INFO RPC interface 'supervisor' initialized
+2023-09-08 08:38:45,147 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 08:38:45,147 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 08:38:46,152 INFO spawned: 'klipper' with pid 50
+2023-09-08 08:38:46,168 INFO spawned: 'moonraker' with pid 51
+2023-09-08 08:38:46,171 INFO spawned: 'simulavr' with pid 52
+2023-09-08 08:38:46,174 INFO spawned: 'webcamd' with pid 53
+2023-09-08 08:38:47,807 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:38:47,815 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:38:47,817 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:38:47,818 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:43:08,405 INFO RPC interface 'supervisor' initialized
+2023-09-08 08:43:08,425 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 08:43:08,425 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 08:43:09,432 INFO spawned: 'klipper' with pid 29
+2023-09-08 08:43:09,436 INFO spawned: 'moonraker' with pid 30
+2023-09-08 08:43:09,441 INFO spawned: 'simulavr' with pid 31
+2023-09-08 08:43:09,447 INFO spawned: 'webcamd' with pid 32
+2023-09-08 08:43:10,474 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:43:10,477 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:43:10,479 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:43:10,481 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:56:17,736 INFO RPC interface 'supervisor' initialized
+2023-09-08 08:56:17,737 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 08:56:17,739 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 08:56:18,752 INFO spawned: 'klipper' with pid 29
+2023-09-08 08:56:18,759 INFO spawned: 'moonraker' with pid 30
+2023-09-08 08:56:18,771 INFO spawned: 'simulavr' with pid 31
+2023-09-08 08:56:18,781 INFO spawned: 'webcamd' with pid 32
+2023-09-08 08:56:19,763 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:56:19,763 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:56:19,764 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 08:56:19,779 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:03:39,805 INFO RPC interface 'supervisor' initialized
+2023-09-08 09:03:39,828 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 09:03:39,829 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 09:03:40,834 INFO spawned: 'klipper' with pid 29
+2023-09-08 09:03:40,844 INFO spawned: 'moonraker' with pid 30
+2023-09-08 09:03:40,852 INFO spawned: 'simulavr' with pid 31
+2023-09-08 09:03:40,876 INFO spawned: 'webcamd' with pid 32
+2023-09-08 09:03:41,872 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:03:41,872 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:03:41,872 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:03:41,873 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:16:33,884 INFO RPC interface 'supervisor' initialized
+2023-09-08 09:16:33,884 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 09:16:33,885 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 09:16:34,891 INFO spawned: 'klipper' with pid 29
+2023-09-08 09:16:34,901 INFO spawned: 'moonraker' with pid 30
+2023-09-08 09:16:34,915 INFO spawned: 'simulavr' with pid 31
+2023-09-08 09:16:34,946 INFO spawned: 'webcamd' with pid 32
+2023-09-08 09:16:35,945 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:16:35,946 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:16:35,946 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:16:35,946 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:36:20,682 INFO RPC interface 'supervisor' initialized
+2023-09-08 09:36:20,762 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 09:36:20,763 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 09:36:21,765 INFO spawned: 'klipper' with pid 29
+2023-09-08 09:36:21,771 INFO spawned: 'moonraker' with pid 30
+2023-09-08 09:36:21,778 INFO spawned: 'simulavr' with pid 31
+2023-09-08 09:36:21,783 INFO spawned: 'webcamd' with pid 32
+2023-09-08 09:36:22,937 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:36:22,939 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:36:22,939 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:36:22,940 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:43:47,513 INFO RPC interface 'supervisor' initialized
+2023-09-08 09:43:47,571 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 09:43:47,574 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 09:43:48,580 INFO spawned: 'klipper' with pid 29
+2023-09-08 09:43:48,587 INFO spawned: 'moonraker' with pid 30
+2023-09-08 09:43:48,599 INFO spawned: 'simulavr' with pid 31
+2023-09-08 09:43:48,609 INFO spawned: 'webcamd' with pid 32
+2023-09-08 09:43:49,623 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:43:49,623 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:43:49,624 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:43:49,624 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:51:53,064 INFO RPC interface 'supervisor' initialized
+2023-09-08 09:51:53,095 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2023-09-08 09:51:53,098 CRIT could not write pidfile /var/run/supervisord.pid
+2023-09-08 09:51:54,101 INFO spawned: 'klipper' with pid 29
+2023-09-08 09:51:54,104 INFO spawned: 'moonraker' with pid 30
+2023-09-08 09:51:54,107 INFO spawned: 'simulavr' with pid 31
+2023-09-08 09:51:54,110 INFO spawned: 'webcamd' with pid 32
+2023-09-08 09:51:55,245 INFO success: klipper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:51:55,245 INFO success: moonraker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:51:55,245 INFO success: simulavr entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-09-08 09:51:55,246 INFO success: webcamd entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
